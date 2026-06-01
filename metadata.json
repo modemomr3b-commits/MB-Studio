@@ -1,0 +1,6 @@
+{
+  "name": "MB STUDIO",
+  "description": "A luxury creative portfolio website showcasing premium design concepts across fashion, footwear, perfume, jewelry, and bags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
